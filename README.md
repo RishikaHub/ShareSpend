@@ -16,7 +16,8 @@ is required to settle the debts.
 
 ## Screenshots
 
-
+![Screenshot (166)](https://github.com/RishikaHub/ShareSpend/assets/167046024/2dc75cd6-08dc-42c3-836b-5a8da7edf7eb)
+![Screenshot 2024-05-31 193241](https://github.com/RishikaHub/ShareSpend/assets/167046024/b58f795a-9f27-4660-9ecc-db26332ccac1)
 
 ## Installation and Usage
 
